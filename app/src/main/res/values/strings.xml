@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserDemo</string>
+    <string name="accessibilityservice_id">com.whatsapp:id/send</string>
+
+</resources>
